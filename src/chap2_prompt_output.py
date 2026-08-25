@@ -1,8 +1,7 @@
 from src.core.chains import classification_chain, summary_chain, translation_chain
 
 text = """
-Artificial intelligence helps machines solve problems, analyze data,
-and support humans in tasks such as diagnosis, recommendation, and automation.
+Surrounded by countryside, this farmhouse offers peace and quiet in the grounds of a stately home. We think you will  spend most of your time in the garden, complete with a wood-fired hot tub and dining table for meals alfresco. Head inside, and the ground floor is arranged for easy socialising and relaxing, while upstairs, the bedrooms ensure an uninterrupted night’s sleep. If exploring is on the agenda, Stratford-upon-Avon is a twenty-minute drive away, or why not stretch your legs with a walk through the Cotswolds? Reached in less than thirty minutes by car.
 """
 
 # Classification
